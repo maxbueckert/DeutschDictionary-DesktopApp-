@@ -1,0 +1,360 @@
+{
+    "nounDict": {"nounList": [
+        {
+            "chapter": 0,
+            "plural": "Manner",
+            "gender": "m",
+            "Eroot": "Man",
+            "Groot": "Mann",
+            "article": "der"
+        },
+        {
+            "chapter": 0,
+            "plural": "Äbschlusse",
+            "gender": "m",
+            "Eroot": "Degree",
+            "Groot": "Abschluss",
+            "article": "der"
+        },
+        {
+            "chapter": 0,
+            "plural": "Diplome",
+            "gender": "n",
+            "Eroot": "Diploma",
+            "Groot": "Diplom",
+            "article": "das;"
+        }
+    ]},
+    "verbDict": {"verbList": [
+        {
+            "du": "antwortst",
+            "wir": "antworten",
+            "chapter": 0,
+            "ihr": "antwortt",
+            "Eroot": "answer",
+            "Groot": "antworten",
+            "er": "antwortst",
+            "sie": "antworten",
+            "ich": "antworte"
+        },
+        {
+            "du": "baust",
+            "wir": "bauen",
+            "chapter": 0,
+            "ihr": "baut",
+            "Eroot": "build",
+            "Groot": "bauen",
+            "er": "baust",
+            "sie": "bauen",
+            "ich": "baue"
+        },
+        {
+            "du": "bedeutst",
+            "wir": "bedeuten",
+            "chapter": 0,
+            "ihr": "bedeutt",
+            "Eroot": "mean",
+            "Groot": "bedeuten",
+            "er": "bedeutst",
+            "sie": "bedeuten",
+            "ich": "bedeute"
+        },
+        {
+            "du": "begrüsst",
+            "wir": "begrüssen",
+            "chapter": 0,
+            "ihr": "begrüsst",
+            "Eroot": "greet",
+            "Groot": "begrüssen",
+            "er": "begrüsst",
+            "sie": "begrüssen",
+            "ich": "begrüsse"
+        },
+        {
+            "du": "belegst",
+            "wir": "belegen",
+            "chapter": 0,
+            "ihr": "belegt",
+            "Eroot": "take",
+            "Groot": "belegen",
+            "er": "belegst",
+            "sie": "belegen",
+            "ich": "belege"
+        },
+        {
+            "du": "brauchst",
+            "wir": "brauchen",
+            "chapter": 0,
+            "ihr": "braucht",
+            "Eroot": "need",
+            "Groot": "brauchen",
+            "er": "brauchst",
+            "sie": "brauchen",
+            "ich": "brauche"
+        },
+        {
+            "du": "bringst",
+            "wir": "bringen",
+            "chapter": 0,
+            "ihr": "bringt",
+            "Eroot": "bring",
+            "Groot": "bringen",
+            "er": "bringst",
+            "sie": "bringen",
+            "ich": "bringe"
+        },
+        {
+            "du": "findst",
+            "wir": "finden",
+            "chapter": 0,
+            "ihr": "findt",
+            "Eroot": "find",
+            "Groot": "finden",
+            "er": "findst",
+            "sie": "finden",
+            "ich": "finde"
+        },
+        {
+            "du": "gehst",
+            "wir": "gehen",
+            "chapter": 0,
+            "ihr": "geht",
+            "Eroot": "go",
+            "Groot": "gehen",
+            "er": "gehst",
+            "sie": "gehen",
+            "ich": "gehe"
+        },
+        {
+            "du": "hörst",
+            "wir": "hören",
+            "chapter": 0,
+            "ihr": "hört",
+            "Eroot": "hear/listen",
+            "Groot": "hören",
+            "er": "hörst",
+            "sie": "hören",
+            "ich": "höre"
+        },
+        {
+            "du": "kaufst",
+            "wir": "kaufen",
+            "chapter": 0,
+            "ihr": "kauft",
+            "Eroot": "buy",
+            "Groot": "kaufen",
+            "er": "kaufst",
+            "sie": "kaufen",
+            "ich": "kaufe"
+        },
+        {
+            "du": "kommst",
+            "wir": "kommen",
+            "chapter": 0,
+            "ihr": "kommt",
+            "Eroot": "come",
+            "Groot": "kommen",
+            "er": "kommst",
+            "sie": "kommen",
+            "ich": "komme"
+        },
+        {
+            "du": "korrigierst",
+            "wir": "korrigieren",
+            "chapter": 0,
+            "ihr": "korrigiert",
+            "Eroot": "correct",
+            "Groot": "korrigieren",
+            "er": "korrigierst",
+            "sie": "korrigieren",
+            "ich": "korrigiere"
+        },
+        {
+            "du": "kostst",
+            "wir": "kosten",
+            "chapter": 0,
+            "ihr": "kostt",
+            "Eroot": "cost",
+            "Groot": "kosten",
+            "er": "kostst",
+            "sie": "kosten",
+            "ich": "koste"
+        },
+        {
+            "du": "lebst",
+            "wir": "leben",
+            "chapter": 0,
+            "ihr": "lebt",
+            "Eroot": "live",
+            "Groot": "leben",
+            "er": "lebst",
+            "sie": "leben",
+            "ich": "lebe"
+        },
+        {
+            "du": "lernst",
+            "wir": "lernen",
+            "chapter": 0,
+            "ihr": "lernt",
+            "Eroot": "learn",
+            "Groot": "lernen",
+            "er": "lernst",
+            "sie": "lernen",
+            "ich": "lerne"
+        },
+        {
+            "du": "liebst",
+            "wir": "lieben",
+            "chapter": 0,
+            "ihr": "liebt",
+            "Eroot": "love",
+            "Groot": "lieben",
+            "er": "liebst",
+            "sie": "lieben",
+            "ich": "liebe"
+        },
+        {
+            "du": "machst",
+            "wir": "machen",
+            "chapter": 0,
+            "ihr": "macht",
+            "Eroot": "do/make",
+            "Groot": "machen",
+            "er": "machst",
+            "sie": "machen",
+            "ich": "mache"
+        },
+        {
+            "du": "öffnest",
+            "wir": "öffnen",
+            "chapter": 0,
+            "ihr": "öffnt",
+            "Eroot": "open",
+            "Groot": "öffnen",
+            "er": "öffnest",
+            "sie": "öffnen",
+            "ich": "öffne"
+        },
+        {
+            "du": "regnest",
+            "wir": "regnen",
+            "chapter": 0,
+            "ihr": "regnt",
+            "Eroot": "rain",
+            "Groot": "regnen",
+            "er": "regnest",
+            "sie": "regnen",
+            "ich": "regne"
+        },
+        {
+            "du": "reist",
+            "wir": "reisen",
+            "chapter": 0,
+            "ihr": "reist",
+            "Eroot": "travel",
+            "Groot": "reisen",
+            "er": "reist",
+            "sie": "reisen",
+            "ich": "reise"
+        },
+        {
+            "du": "sagst",
+            "wir": "sagen",
+            "chapter": 0,
+            "ihr": "sagt",
+            "Eroot": "say",
+            "Groot": "sagen",
+            "er": "sagst",
+            "sie": "sagen",
+            "ich": "sage"
+        },
+        {
+            "du": "schreibst",
+            "wir": "schreiben",
+            "chapter": 0,
+            "ihr": "schreibt",
+            "Eroot": "write",
+            "Groot": "schreiben",
+            "er": "schreibst",
+            "sie": "schreiben",
+            "ich": "schreibe"
+        },
+        {
+            "du": "spielst",
+            "wir": "spielen",
+            "chapter": 0,
+            "ihr": "spielt",
+            "Eroot": "play",
+            "Groot": "spielen",
+            "er": "spielst",
+            "sie": "spielen",
+            "ich": "spiele"
+        },
+        {
+            "du": "suchst",
+            "wir": "suchen",
+            "chapter": 0,
+            "ihr": "sucht",
+            "Eroot": "look",
+            "Groot": "suchen",
+            "er": "suchst",
+            "sie": "suchen",
+            "ich": "suche"
+        },
+        {
+            "du": "verstehst",
+            "wir": "verstehen",
+            "chapter": 0,
+            "ihr": "versteht",
+            "Eroot": "understand",
+            "Groot": "verstehen",
+            "er": "verstehst",
+            "sie": "verstehen",
+            "ich": "verstehe"
+        },
+        {
+            "du": "wartst",
+            "wir": "warten",
+            "chapter": 0,
+            "ihr": "wartt",
+            "Eroot": "wait",
+            "Groot": "warten",
+            "er": "wartst",
+            "sie": "warten",
+            "ich": "warte"
+        },
+        {
+            "du": "wiederholst",
+            "wir": "wiederholen",
+            "chapter": 0,
+            "ihr": "wiederholt",
+            "Eroot": "repeat",
+            "Groot": "wiederholen",
+            "er": "wiederholst",
+            "sie": "wiederholen",
+            "ich": "wiederhole"
+        },
+        {
+            "du": "wohnst",
+            "wir": "wohnen",
+            "chapter": 0,
+            "ihr": "wohnt",
+            "Eroot": "live(somewhere)",
+            "Groot": "wohnen",
+            "er": "wohnst",
+            "sie": "wohnen",
+            "ich": "wohne"
+        },
+        {
+            "du": "endst",
+            "wir": "enden",
+            "chapter": 0,
+            "ihr": "endt",
+            "Eroot": "end",
+            "Groot": "enden",
+            "er": "endst",
+            "sie": "enden",
+            "ich": "ende"
+        }
+    ]}
+}
