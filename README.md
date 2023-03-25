@@ -6,6 +6,6 @@ DeutschDictionary is a desktop application designed to streamline the German lan
 
 **Key Features**
 
-Vocabulary Management: Easily input and track new German vocabulary words and their English equivalents.
-Automatic Verb Conjugation: Benefit from a unique algorithm that intelligently conjugates verbs, saving time and effort in note-taking.
-User-friendly Interface: Navigate the application effortlessly, thanks to its intuitive design tailored for optimal language learning.
+- Vocabulary Management: Easily input and track new German vocabulary words and their English equivalents.
+- Automatic Verb Conjugation: Benefit from a unique algorithm that intelligently conjugates verbs, saving time and effort in note-taking.
+- User-friendly Interface: Navigate the application effortlessly, thanks to its intuitive design tailored for optimal language learning.
