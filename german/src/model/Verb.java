@@ -28,6 +28,7 @@ public class Verb extends Word implements Writable {
         json.put("Groot", super.getGermanRoot());
         json.put("Eroot", super.getEnglishRoot());
         json.put("chapter", super.getChapter());
+        json.put("regular", isRegular);
 
         return json;
     }
@@ -36,6 +37,7 @@ public class Verb extends Word implements Writable {
     public Verb(Boolean isRegular, String germanRoot, String englishRoot) {
         super(englishRoot, germanRoot);
         if (isRegular) {
+
             conjugate();
         }
     }
@@ -44,7 +46,7 @@ public class Verb extends Word implements Writable {
 
 
 
-    private boolean conjugate() {
+    public boolean conjugate() {
         String germanRoot = super.getGermanRoot();
         int length = germanRoot.length();
         if (germanRoot.substring(length - 3).equals("den") || (germanRoot.substring(length - 3).equals("ten"))) {

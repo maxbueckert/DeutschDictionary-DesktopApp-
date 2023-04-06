@@ -1,14 +1,27 @@
 package ui;
 
+import model.Verb;
+import model.dictionaries.TotalDictionary;
 import persistence.JsonReader;
 import ui.subs.AbstractUI;
 import ui.subs.MainMenu;
 
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class Main {
     public static void main(String[] args) {
         loadDict();
+
+        // reconjugate incase change has been made to logic
+        ArrayList<Verb> verbs = TotalDictionary.verbDict.getVerbs();
+        for (Verb verb : verbs) {
+            if(verb.isRegular()) {
+                verb.conjugate();
+            }
+        }
+
+
         new MainMenu();
     }
 

@@ -110,6 +110,7 @@ public class JsonReader {
         verb.setEnglishRoot(jsonObject.getString("Eroot"));
         verb.setGermanRoot(jsonObject.getString("Groot"));
         verb.setChapter(jsonObject.getInt("chapter"));
+        verb.setRegular(jsonObject.getBoolean("regular"));
         return verb;
     }
 
